@@ -2,6 +2,7 @@ import os
 from datetime import timedelta
 from os import environ
 from pathlib import Path
+import django_heroku
 
 from django.conf import settings
 
